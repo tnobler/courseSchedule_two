@@ -14,7 +14,7 @@ export function fetchCourses() {
       {
         id: 0,
         title: "Up and Running with Redis",
-        description: "In this course you'll learn how to work with the efficient Redis database to manage key / value relationships.",
+        description: "In this course you'll learn how to work with the efficient Redis database to manage key / value relationships. In this course you'll learn how to work with the efficient Redis database to manage key / value relationships. In this course you'll learn how to work with the efficient Redis database to manage key / value relationships.",
         enrolled: false
       },
       {
@@ -69,6 +69,12 @@ export function fetchCourses() {
         id: 9,
         title: 'Dissecting Rails 5',
         description: 'Learn how to build powerful applications using this comprehensive guide to the Ruby on Rails web framework.',
+        enrolled: false
+      },
+      {
+        id: 10,
+        title: 'This is an Example of a Large Description',
+        description: 'Lorem ipsum dolor sit amet, ne has inani mazim probatus. Ne corpora argumentum has, ea qui dicat sonet accumsan, cum no tantas invidunt facilisis. Offendit euripidis nec id. Prompta aliquam feugait mei in, sit te assentior prodesset, ex duo aeque epicurei phaedrum. Ea putant urbanitas eos. Ea quo illum aperiam sententiae, falli invidunt et has. Omnes mucius feugait an qui, sit cu dicant partem primis. Consul splendide usu in, ne duis dicat inimicus sea, epicuri delectus oporteat cu eos. Ne integre singulis vel. Ei elit sonet sea, ne nam semper praesent. At vero tantas munere per, congue ridens cu nec.',
         enrolled: false
       }
     ]
